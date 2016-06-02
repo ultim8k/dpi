@@ -392,6 +392,12 @@
 		"d": 23.8
 	},
 	{
+		"name": "Dell UltraSharp U2515H",
+		"w": 2560,
+		"h": 1440,
+		"d": 24.97
+	},
+	{
 		"name": "Google Chromebook Pixel",
 		"w": 2560,
 		"h": 1700,
